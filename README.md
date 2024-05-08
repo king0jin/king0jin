@@ -43,7 +43,7 @@ Here are some ideas to get you started:
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 History of me! </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Study for me! </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/134c9b737d0c43ccbe9f1c68a117053d?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/134c9b737d0c43ccbe9f1c68a117053d?pvs=4"> </a>
          <a href=https://www.instagram.com/king0jin?igsh=d2RrMTN0bzh5NmJo&utm_source=qr> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/king0jin?igsh=d2RrMTN0bzh5NmJo&utm_source=qr"> </a>
          <a href=https://m.blog.naver.com/et0709> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://m.blog.naver.com/et0709"> </a>
