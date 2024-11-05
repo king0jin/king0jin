@@ -15,3 +15,7 @@
 
 
 ### Study🐣
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula)
