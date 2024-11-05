@@ -7,4 +7,8 @@
 
 - 🚬(-ω-) I’m currently learning cloud computing and exploring various technologies in this field.
 -  ( •̀ω•́ )✧ I want to become a database administrator
-    
+
+
+#### Projects
+- [AllYak] | 약에 대한 올바른 정보와 복용 알람 기능, 현재 위치를 기반으로 약국 위치를 제공 안드로이드 앱
+- [SM_Cafeteria] | 점심시간 교내 학식당 이용을 원할하게 하기위한 학식, 식권 예약 웹 서비스
