@@ -15,7 +15,12 @@
 
 
 ### Study🐣
+- [DjangoStudy](https://github.com/king0jin/DjangoStudy) | 파이썬 웹 프로그래밍 프레임워크인 Django를 이용하기
+- [conn_database](https://github.com/king0jin/conn_Database) | mariaDB, mongoDB 연동
+- [Django_REST_API](https://github.com/king0jin/Django_REST_API/blob/main/README.md) | Django REST Framework 라이브러리를 이용하여 REST API 구현하기
+- [React_study](https://github.com/king0jin/React_study) | React프로젝트 생성해서 실행해보기
+- [ToDoWebApp](https://github.com/king0jin/ToDoWebApp/blob/main/README.md) | Django, react를 사용하여 ToDo Web Application 제작하기
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula) 
