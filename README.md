@@ -20,6 +20,7 @@
 - [Django_REST_API](https://github.com/king0jin/Django_REST_API/blob/main/README.md) | Django REST Framework 라이브러리를 이용하여 REST API 구현하기
 - [React_study](https://github.com/king0jin/React_study) | React프로젝트 생성해서 실행해보기
 - [ToDoWebApp](https://github.com/king0jin/ToDoWebApp/blob/main/README.md) | Django, react를 사용하여 ToDo Web Application 제작하기
+- [Kafka_study](https://github.com/king0jin/Kafka_study) | VScode에서 Docker에 Kafka설치와 Python으로 Kafka사용하기
 
 
 ---
