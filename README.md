@@ -19,10 +19,10 @@
 - [conn_database](https://github.com/king0jin/conn_Database) | mariaDB, mongoDB 연동
 - [Django_REST_API](https://github.com/king0jin/Django_REST_API/blob/main/README.md) | Django REST Framework 라이브러리를 이용하여 REST API 구현하기
 - [React_study](https://github.com/king0jin/React_study) | React프로젝트 생성해서 실행해보기
-- [ToDoWebApp](https://github.com/king0jin/ToDoWebApp/blob/main/README.md) | Django, react를 사용하여 ToDo Web Application 제작하기
+- [ToDoWebApp](https://github.com/king0jin/ToDoWebApp/blob/main/README.md) | Django, React를 사용하여 ToDo Web Application 제작하기
 - [Kafka_study](https://github.com/king0jin/Kafka_study) | VScode에서 Docker에 Kafka설치와 Python으로 Kafka사용하기
 - [Kafka_study2](https://github.com/king0jin/Kafka_study2) | IntelliJ에서 Docker에 Kafka설치 + Spring Boot에서 Kafka사용하기
-
+- [Django_CQRS](https://github.com/king0jin/CQRS) | KafKa를 통한 CQRS구현하기
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula) 
