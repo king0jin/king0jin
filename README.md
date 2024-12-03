@@ -29,3 +29,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=et0709)](https://solved.ac/et0709)
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/king0jin"
+  width="600"
+  height="300"
+/>
+</a>
