@@ -23,6 +23,7 @@
 - [Kafka_study](https://github.com/king0jin/Kafka_study) | VScode에서 Docker에 Kafka설치와 Python으로 Kafka사용하기
 - [Kafka_study2](https://github.com/king0jin/Kafka_study2) | IntelliJ에서 Docker에 Kafka설치 + Spring Boot에서 Kafka사용하기
 - [Django_CQRS](https://github.com/king0jin/CQRS) | KafKa를 통한 CQRS구현하기
+- [SpringBoot_CQRS](https://github.com/king0jin/CQRS_SpringBoot) | Kafka를 통한 CQRS구현하기
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula) 
