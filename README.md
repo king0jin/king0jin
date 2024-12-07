@@ -24,8 +24,7 @@
 - [Kafka_study2](https://github.com/king0jin/Kafka_study2) | IntelliJ에서 Docker에 Kafka설치 + Spring Boot에서 Kafka사용하기
 - [Django_CQRS](https://github.com/king0jin/CQRS) | KafKa를 통한 CQRS구현하기
 - [SpringBoot_CQRS](https://github.com/king0jin/CQRS_SpringBoot) | Kafka를 통한 CQRS구현하기
-  + [Write_Project](https://github.com/king0jin/SpringBoot_write_CQRS) | CQRS - 데이터 쓰기 프로젝트
-  + [Read_Project](https://github.com/king0jin/SpringBoot_read_CQRS) | CQRS - 데이터 읽기 프로젝트
+
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king0jin&layout=compact&theme=dracula) 
