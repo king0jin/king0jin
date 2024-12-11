@@ -7,7 +7,7 @@
 
 - 🚬(-ω-) I’m currently learning cloud computing and exploring various technologies in this field.
 -  ( •̀ω•́ )✧ I want to become a database administrator
-
+-  ( •̀ω•́ )✧ I want to become a Technical Architect
 
 ### Projects🤼‍♀
 - [💊AllYak](https://github.com/soo5o/Allyak) | 약에 대한 올바른 정보와 복용 알람 기능, 현재 위치를 기반으로 약국 위치를 제공하는 앱 서비스
